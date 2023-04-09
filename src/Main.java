@@ -2,11 +2,11 @@
 /*import padroes.singleton.SingletonEager;
 import padroes.singleton.SingletonLazy;
 import padroes.singleton.SingletonLazyHolder;*/
-import padroes.strategy.Comportamento;
+/*import padroes.strategy.Comportamento;
 import padroes.strategy.ComportamentoAgresivo;
 import padroes.strategy.ComportamentoDefensivo;
 import padroes.strategy.ComportamentoNormal;
-import padroes.strategy.Robo;
+import padroes.strategy.Robo;*/
 
 public class Main {
     public static void main(String[] args) {
