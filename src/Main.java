@@ -2,6 +2,8 @@ import padroes.SingletonEager;
 import padroes.SingletonLazy;
 import padroes.SingletonLazyHolder;
 
+//novo//
+
 public class Main {
     public static void main(String[] args) {
 
