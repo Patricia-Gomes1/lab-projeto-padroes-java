@@ -1,4 +1,4 @@
-package padroes;
+package padroes.singleton;
 
 public class SingletonLazyHolder {
 
