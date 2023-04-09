@@ -1,3 +1,4 @@
+import padroes.facade.Facade;
 
 /*import padroes.singleton.SingletonEager;
 import padroes.singleton.SingletonLazy;
@@ -51,6 +52,11 @@ public class Main {
          * robo.mover();
          * robo.mover();
          */
+
+        // Facade
+
+        Facade facade = new Facade();
+        facade.migrarCliente("Patricia", "123456789");
 
     }
 }
